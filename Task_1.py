@@ -1,4 +1,4 @@
-num1 = "Enter the first number"
+num1 = "Enter the number"
 num2 = "Enter the second number"
 
 addition= num1 + num2

@@ -9,4 +9,3 @@ print("addition:", addition)
 print("subtraction:",subtraction)
 print("Multiplication:", Multiplication)
 print("division:", division)
-

@@ -1,12 +1,13 @@
-num1 = "Enter the first"
-num2 = "Enter the second number"
+X = int(input("Enter the first: "))
+y = int(input("Enter the second number:"))
 
-addition= num1 + num2
-subtraction = num1 - num2
-Multiplication = num1 * num2
-division = num1 / num2
+addition= X + y
+subtraction = X - y
+Multiplication = X * y
+division = X / y
 
 print("addition:", addition)
 print("subtraction:",subtraction)
 print("Multiplication:", Multiplication)
 print("division:", division)
+
